@@ -1,4 +1,5 @@
 # OS Project 1
+資工三 B06902011 陳義誠
 ## Compiling
 ```
 make
